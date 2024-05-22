@@ -57,7 +57,7 @@ Simply type a command on the terminal and press Enter to see results. <br>
    `cd <dirname>`
 
 ## Run Linux Commands on Windows Terminal:
-Instead of using Cygwin Terminal, we can directly run Linux commands on Command Prompt itself. To do that, we need to add Cygwin path to Windows PATH environment variable. 
+Apart from Cygwin Terminal, we can also run Linux commands on Command Prompt itself. To do that, we need to add Cygwin path to Windows PATH environment variable. 
 
 1. In the Windows search bar, start typing “environment variables” and select the first match.
    
