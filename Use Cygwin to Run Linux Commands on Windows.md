@@ -2,7 +2,7 @@
 
 **Cygwin** is a project developed using a collection of open source tools that provide Linux OS look and feel like functionality on Windows. 
 
-Follow these steps to install Cygwin in Windows and use it. You can also go through [this PDF document](https://github.com/srimarrivada/CygwinInstallation/blob/main/Use%20Cygwin%20to%20Run%20Linux%20Commands%20on%20Windows.pdf) with more detailed steps along with screenshots.
+Follow these steps to install Cygwin in Windows and use it. You can also go through [this PDF document](https://github.com/srimarrivada/CygwinInstallation/blob/main/doc/Use%20Cygwin%20to%20Run%20Linux%20Commands%20on%20Windows.pdf) with more detailed steps along with screenshots.
 
 ## **Cygwin Installation:**
 Download Cygwin setup tool from the [official site](https://www.cygwin.com/) which provides us `setup-x86-64.exe` file to run.
